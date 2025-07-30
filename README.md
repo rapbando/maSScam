@@ -1,5 +1,5 @@
 # maSScam
-Tool for batch harvesting still images from network cameras providing IP ranges on port 554 (RSTP)
+Tool for batch harvesting still images from network cameras providing IP ranges on port 554 (RTSP)
 
 
 This script requires MASSCAN https://github.com/robertdavidgraham/masscan , FFMPEG https://ffmpeg.org/download.html
