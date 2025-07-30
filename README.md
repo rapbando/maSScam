@@ -14,6 +14,6 @@ It is reccomended to install cloning main tools from github,
 
 
 #### USAGE: 
-`sudo bash maSScam.sh ip/subnet` or `sudo bash maSSdump.sh ip_start-ip_stop` 
+`sudo bash maSScam.sh ip/subnet` or `sudo bash maSScam.sh ip_start-ip_stop` 
 
 
